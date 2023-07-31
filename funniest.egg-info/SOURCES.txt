@@ -1,8 +1,0 @@
-setup.py
-funniest/__init__.py
-funniest/funny.py
-funniest.egg-info/PKG-INFO
-funniest.egg-info/SOURCES.txt
-funniest.egg-info/dependency_links.txt
-funniest.egg-info/requires.txt
-funniest.egg-info/top_level.txt
